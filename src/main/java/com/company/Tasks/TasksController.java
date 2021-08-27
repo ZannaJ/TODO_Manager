@@ -65,7 +65,6 @@ public class TasksController {
         String fieldUpdate = scanner.next();
         fieldUpdate += scanner.nextLine();
 
-
         try {
             ps = DbConnection.getConnection().prepareStatement("UPDATE Tasks SET " + field + " = '" + fieldUpdate + "' WHERE ID = " + id);
             ps.execute();
