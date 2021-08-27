@@ -1,4 +1,5 @@
 package com.company.Tasks;
+import java.sql.Date;
 
 public class Tasks {
     private int id;
@@ -6,11 +7,15 @@ public class Tasks {
     private int priority;
     private String category;
     private String status;
+    private Date deadline; // added on 23.08.2021
+    private int user_id; // added on 23.08.2021
 
 
     public Tasks() {
 
     }
+
+
 
     public Tasks(int id, String name, int age) {
         this.id = id;
@@ -18,7 +23,8 @@ public class Tasks {
         this.priority = priority;
         this.category = category;
         this.status = status;
-
+        this.deadline = deadline; // added on 23.08.2021
+        this.user_id = user_id; // added on 23.08.2021
 
     }
 
@@ -59,7 +65,15 @@ public class Tasks {
         return status;
     }
 
-    public void setStatus(String status) {
-        this.status = status;
-    }
+    public void setStatus(String status) { this.status = status; }
+
+    public Date getDeadline() { return deadline; } // added on 23.08.2021
+
+    public void setDeadline(Date deadline) { this.deadline = deadline; } // added on 23.08.2021
+
+    public int getUser_id() { return user_id; } // added on 23.08.2021
+
+    public void setUser_id(int user_id) { this.user_id = user_id; } // added on 23.08.2021
+
+
 }
