@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-30T17:36:21.482Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="JCAoWQIkqn3Pd7MaoQaN" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-30T17:39:43.993Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="FjMU4WW0jNTRNA2RtJqQ" version="15.0.3" type="github">
   <diagram id="gmLFPseF1WjXxY96tJIX" name="Page-1">
     <mxGraphModel dx="1506" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -243,6 +243,46 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="tQSmkxGg7PB6tpALM_Nv-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tQSmkxGg7PB6tpALM_Nv-69" target="tQSmkxGg7PB6tpALM_Nv-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="1270" />
+              <mxPoint x="170" y="1810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tQSmkxGg7PB6tpALM_Nv-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tQSmkxGg7PB6tpALM_Nv-69" target="tQSmkxGg7PB6tpALM_Nv-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="1270" />
+              <mxPoint x="170" y="1900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tQSmkxGg7PB6tpALM_Nv-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tQSmkxGg7PB6tpALM_Nv-69" target="tQSmkxGg7PB6tpALM_Nv-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="1270" />
+              <mxPoint x="170" y="1990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tQSmkxGg7PB6tpALM_Nv-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tQSmkxGg7PB6tpALM_Nv-69" target="tQSmkxGg7PB6tpALM_Nv-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="1270" />
+              <mxPoint x="170" y="2080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tQSmkxGg7PB6tpALM_Nv-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tQSmkxGg7PB6tpALM_Nv-69" target="tQSmkxGg7PB6tpALM_Nv-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="1270" />
+              <mxPoint x="170" y="2170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tQSmkxGg7PB6tpALM_Nv-69" value="Choose option" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="1240" width="250" height="60" as="geometry" />
         </mxCell>
@@ -254,6 +294,21 @@
         </mxCell>
         <mxCell id="tQSmkxGg7PB6tpALM_Nv-78" value="5. Sort tasks by priority" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="1700" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSmkxGg7PB6tpALM_Nv-81" value="6. Sort tasks by category" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1780" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSmkxGg7PB6tpALM_Nv-83" value="7. Sort tasks by status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1870" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSmkxGg7PB6tpALM_Nv-85" value="8. Sort tasks by deadline" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1960" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSmkxGg7PB6tpALM_Nv-87" value="9. Return to the main menu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="2050" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSmkxGg7PB6tpALM_Nv-89" value="10. Logout and close the programm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="2140" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
